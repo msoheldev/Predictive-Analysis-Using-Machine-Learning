@@ -22,3 +22,4 @@ A Random Forest classifier was trained to predict whether a customer would give 
 The confusion matrix shows the model’s performance by comparing actual and predicted ratings. It correctly classifies 14,815 high ratings and 773 low ratings, while 3,334 low ratings are misclassified as high and 350 high ratings as low. This indicates strong performance in predicting high ratings but weaker ability to identify low ratings, suggesting a bias toward positive predictions.
 
 OUTPUT : 
+<img width="669" height="543" alt="Image" src="https://github.com/user-attachments/assets/862661ab-ee1d-49f6-8230-b58ff8153605" />
